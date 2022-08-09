@@ -1,13 +1,13 @@
 {
-    "name": "brotzka/laravel-dotenv-editor",
+    "name": "mgip/laravel-dotenv-editor",
     "description": "A package for editing the .env file in your Laravel root.",
     "keywords": ["laravel", "dotenv", "dotenv-editor"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Fabian Hagen",
-            "email": "fabianhagen87@gmail.com"
+            "name": "Juan Carlos Nava",
+            "email": "tuinformatico@zoho.eu"
         }
     ],
     "minimum-stability": "stable",
